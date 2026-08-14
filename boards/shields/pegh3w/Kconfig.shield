@@ -1,0 +1,4 @@
+
+config SHIELD_PEGH3W
+    def_bool $(shields_list_contains,pegh3w)
+

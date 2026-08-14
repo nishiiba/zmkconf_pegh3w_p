@@ -1,0 +1,7 @@
+
+if SHIELD_PEGH3W
+
+config ZMK_KEYBOARD_NAME
+    default "pegh3w"
+
+endif
